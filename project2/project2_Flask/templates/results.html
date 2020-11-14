@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Movie Reviews</title>
+
+</head>
+
+<style>
+
+    p {
+      border: 2px solid black;
+      outline: #4CAF50 solid 10px;
+      margin: auto;
+      padding: 20px;
+      text-align: center;
+    }
+
+</style>
+
+    <body>
+
+        {%for i in response%}
+        <h1> <p> {{i["display_title"]}} </h1>
+        <center><h2> {{i["summary_short"]}} </h2></center>
+        <center><h3> <a href="{{ i["url_"] }}"> Click here for Review Link </a> </h3></center>
+        {%endfor%}
+
+    </body>
+</html>

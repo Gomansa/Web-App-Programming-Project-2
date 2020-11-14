@@ -1,0 +1,193 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2020 The New York Times Company. All Rights Reserved.",
+  "has_more": false,
+  "num_results": 10,
+  "results": [
+    {
+      "display_title": "The Lego Batman Movie",
+      "mpaa_rating": "PG",
+      "critics_pick": 0,
+      "byline": "MANOHLA DARGIS",
+      "headline": "Review: In \u2018The Lego Batman Movie,\u2019 Toys and Heroes, What\u2019s Not to Like?",
+      "summary_short": "Warner Bros. offers amusement at its own expense and Will Arnett gives great voice to Gotham\u2019s brooder, but this new movie is still a commercial.",
+      "publication_date": "2017-02-08",
+      "opening_date": "2017-02-10",
+      "date_updated": "2017-11-02 04:18:26",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2017/02/08/movies/the-lego-batman-movie-review.html",
+        "suggested_link_text": "Read the New York Times Review of The Lego Batman Movie"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2017/02/10/arts/10THELEGOBATMANMOVIE1/10THELEGOBATMANMOVIE1-mediumThreeByTwo210-v3.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Batman v Superman: Dawn of Justice",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "A. O. SCOTT",
+      "headline": "Review: \u2018Batman v Superman\u2019 ... v Fun?",
+      "summary_short": "The film, pitting Ben Affleck against Henry Cavill, largely serves as an extended trailer for a slate of coming DC Comics movies like \u201cWonder Woman.\u201d",
+      "publication_date": "2016-03-23",
+      "opening_date": "2016-03-25",
+      "date_updated": "2017-11-02 04:18:24",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2016/03/25/movies/review-batman-v-superman-dawn-of-justice-when-super-friends-fight.html",
+        "suggested_link_text": "Read the New York Times Review of Batman v Superman: Dawn of Justice"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2016/03/25/movies/25BATMANSUPERMAN/25BATMANSUPERMAN-mediumThreeByTwo210-v3.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "The East",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "A. O. SCOTT",
+      "headline": "Falling for the Anarchy She Was Sent to Fight",
+      "summary_short": "A group of anarchists near the Mason-Dixon line are determined to hold the poisoners and polluters of the executive class accountable for their actions.",
+      "publication_date": "2013-05-30",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:16:36",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2013/05/31/movies/the-east-written-by-zal-batmanglij-and-brit-marling.html",
+        "suggested_link_text": "Read the New York Times Review of The East"
+      },
+      "multimedia": {
+        "type": "mediumThreeByTwo210",
+        "src": "https://static01.nyt.com/images/2013/05/31/arts/east-video-image/east-video-image-mediumThreeByTwo210-v3.jpg",
+        "width": 210,
+        "height": 140
+      }
+    },
+    {
+      "display_title": "Sound of My Voice",
+      "mpaa_rating": "R",
+      "critics_pick": 0,
+      "byline": "MANOHLA DARGIS",
+      "headline": "The Guru in the Basement Promises a Journey to ... Something",
+      "summary_short": "A young couple go undercover to investigate an enigmatic woman leading what may be a cult in \u201cSound of My Voice.\u201d",
+      "publication_date": "2012-04-26",
+      "opening_date": null,
+      "date_updated": "2017-11-02 04:16:35",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2012/04/27/movies/sound-of-my-voice-directed-by-zal-batmanglij.html",
+        "suggested_link_text": "Read the New York Times Review of Sound of My Voice"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "The Pleasure of Being Robbed",
+      "mpaa_rating": "",
+      "critics_pick": 0,
+      "byline": "LAURA KERN",
+      "headline": "Stealing Glances",
+      "summary_short": "The initial glimmer of hope \u201cThe Pleasure of Being Robbed\u201d inspires with regard to the indie offshoot genre of mumblecore quickly dies.",
+      "publication_date": "2008-10-03",
+      "opening_date": "2008-10-03",
+      "date_updated": "2017-11-02 04:18:08",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/2008/10/03/movies/03robb.html",
+        "suggested_link_text": "Read the New York Times Review of The Pleasure of Being Robbed"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Batman & Robin",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "JANET MASLIN",
+      "headline": "Batman and Robin (Movie)  ",
+      "summary_short": "The daring duo and Batgirl take on Mr. Freeze and Poison Ivy. Squashed characters and plot.",
+      "publication_date": "1997-06-20",
+      "opening_date": "1997-06-20",
+      "date_updated": "2017-11-02 04:17:53",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1997/06/20/movies/holy-iceberg-dynamic-duo-vs-mr-freeze.html",
+        "suggested_link_text": "Read the New York Times Review of Batman & Robin"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Batman Forever",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "Janet Maslin",
+      "headline": "BATMAN FOREVER (MOVIE)",
+      "summary_short": "Riddler and Two-Face in Gotham. Mainly gimmicky props and kitsch.",
+      "publication_date": "1995-06-16",
+      "opening_date": "1995-06-16",
+      "date_updated": "2017-11-02 04:17:48",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1995/06/16/movies/film-review-batman-forever-new-challenges-for-the-caped-crusader.html",
+        "suggested_link_text": "Read the New York Times Review of Batman Forever"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Batman: Mask of the Phantasm",
+      "mpaa_rating": "PG",
+      "critics_pick": 0,
+      "byline": "Stephen Holden",
+      "headline": "BATMAN: MASK OF THE PHANTASM (MOVIE)",
+      "summary_short": "",
+      "publication_date": "1993-12-28",
+      "opening_date": "1993-12-25",
+      "date_updated": "2017-11-02 04:17:46",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1993/12/28/movies/review-film-the-caped-crusader-returns-in-40-s-noir-mode.html",
+        "suggested_link_text": "Read the New York Times Review of Batman: Mask of the Phantasm"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Batman Returns",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "Janet Maslin",
+      "headline": "BATMAN RETURNS (MOVIE)",
+      "summary_short": "Penguin and Catwoman show up for the sequel. Sleeker, brighter eyeful, but with weak, drawn-out finale.",
+      "publication_date": "1992-06-19",
+      "opening_date": "1992-06-19",
+      "date_updated": "2017-11-02 04:17:44",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1992/06/19/movies/review-film-batman-returns-a-sincere-bat-a-sexy-cat-and-a-bad-bird.html",
+        "suggested_link_text": "Read the New York Times Review of Batman Returns"
+      },
+      "multimedia": null
+    },
+    {
+      "display_title": "Batman",
+      "mpaa_rating": "PG-13",
+      "critics_pick": 0,
+      "byline": "Vincent Canby",
+      "headline": "BATMAN (MOVIE)",
+      "summary_short": "Millionaire caped crusader vs. the Joker. Fast, brash  and overbaked. Evil Jack's the juice.",
+      "publication_date": "1989-06-23",
+      "opening_date": "1989-06-23",
+      "date_updated": "2017-11-02 04:17:40",
+      "link": {
+        "type": "article",
+        "url": "http://www.nytimes.com/1989/06/23/movies/review-film-nicholson-and-keaton-do-battle-in-batman.html",
+        "suggested_link_text": "Read the New York Times Review of Batman"
+      },
+      "multimedia": null
+    }
+  ]
+}
